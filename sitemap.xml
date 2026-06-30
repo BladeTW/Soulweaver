@@ -1,627 +1,631 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/faq/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/getting-started/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/faq/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/getting-started/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/celestial-bricks/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/decorative-blocks/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/celestial-bricks/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/infernal-bricks/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/decorative-blocks/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/mirror/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/infernal-bricks/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/mirror/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/ritual-stone/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/soul-core/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/ritual-stone/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/soul-crystal-block/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/soul-core/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/soul-glass/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/soul-crystal-block/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/soul-lantern/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/soul-glass/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/blocks/soul-repository/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/soul-lantern/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/astral-leviathan/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/blocks/soul-repository/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/azrath-lord-of-balance/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/astral-leviathan/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/malvok-heart-devourer/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/azrath-lord-of-balance/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/malvok-heart-devourer/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/seraph-asterion/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/the-empty-saint/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/seraph-asterion/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/bosses/twin-oracles/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/the-empty-saint/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/angel-golems/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/bosses/twin-oracles/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/cursed-spirit/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/angel-golems/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/demon-golems/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/cursed-spirit/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/golems/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/demon-golems/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/golems/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/summoned-entities/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/entities/wandering-spirit/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/summoned-entities/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/automation/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/entities/wandering-spirit/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/building-your-first-workshop/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/automation/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/capturing-souls/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/building-your-first-workshop/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/creating-a-golem/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/capturing-souls/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/late-game-progression/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/creating-a-golem/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/managing-instability/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/late-game-progression/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/soul-breeding-guide/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/managing-instability/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/guides/upgrading-golems/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/soul-breeding-guide/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/guides/upgrading-golems/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/armour/angel-armour/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/armour/demon-armour/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/armour/angel-armour/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/armour/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/armour/demon-armour/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/boss-materials/angelic-essence/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/armour/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/boss-materials/astral-core/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/boss-materials/angelic-essence/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/boss-materials/infernal-essence/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/boss-materials/astral-core/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/golem-items/empty-soul-core/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/boss-materials/infernal-essence/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/golem-items/empty-vessel/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/golem-items/empty-soul-core/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/golem-items/reinforced-soul-core/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/golem-items/empty-vessel/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/golem-items/soul-slot-upgrade/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/golem-items/reinforced-soul-core/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/binding-sigil/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/golem-items/soul-slot-upgrade/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/blessed-soul-crystal/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/binding-sigil/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/celestial-thread/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/blessed-soul-crystal/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/corrupted-soul-crystal/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/celestial-thread/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/refined-soul-crystal/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/corrupted-soul-crystal/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/reinforced-soul-jar/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/refined-soul-crystal/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/soul-jar/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/reinforced-soul-jar/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/soul-powder/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/soul-jar/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/soul-shard/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/soul-powder/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/stabilising-catalyst/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/soul-shard/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/soul-items/star-dust/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/stabilising-catalyst/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/tools/angel-tools/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/soul-items/star-dust/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/tools/demon-tools/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/tools/angel-tools/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/tools/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/tools/demon-tools/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/tools/utility-tools/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/tools/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/utility/constellation-lens/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/tools/utility-tools/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/utility/soul-compass/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/utility/constellation-lens/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/utility/soul-ledger/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/utility/soul-compass/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/utility/zodiac-tome/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/utility/soul-ledger/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/weapons/angel-weapons/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/utility/zodiac-tome/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/weapons/celestial-greatsword/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/weapons/angel-weapons/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/weapons/demon-weapons/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/weapons/celestial-greatsword/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/weapons/infernal-greatsword/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/weapons/demon-weapons/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/items/weapons/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/weapons/infernal-greatsword/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/attunements/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/items/weapons/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/celestial-events/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/attunements/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/cursed-spirits/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/celestial-events/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/cursed-spirits/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/souls/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/wandering-spirits/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/souls/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/lore/zodiacs/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/wandering-spirits/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/astral-crusher/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/lore/zodiacs/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/astral-telescope/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/astral-crusher/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/behaviour-matrix/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/astral-telescope/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/celestial-battery/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/behaviour-matrix/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/celestial-forge/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/celestial-battery/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/crystal-vault/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/celestial-forge/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/fate-engine/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/crystal-vault/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/golem-repair-station/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/fate-engine/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/golem-repair-station/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/ritual-sequencer/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-apiary/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/ritual-sequencer/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-condenser/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-apiary/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-extractor/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-condenser/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-kiln/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-extractor/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-loader/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-kiln/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/soul-pulveriser/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-loader/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/spirit-beacon/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/soul-pulveriser/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/spirit-compass/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/spirit-beacon/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/spirit-harvester/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/spirit-compass/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/machines/verdant-shrine/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/spirit-harvester/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/attunements/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/machines/verdant-shrine/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/celestial-energy/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/attunements/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/golem-behaviour/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/celestial-energy/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/instability/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/golem-behaviour/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/soul-energy/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/instability/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/soul-memories/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/soul-energy/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/soul-slots/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/soul-memories/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/soul-strength/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/soul-slots/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/soul-system/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/soul-strength/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/stability/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/soul-system/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/world-events/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/stability/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/mechanics/zodiac-system/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/world-events/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/astral-gateway/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/mechanics/zodiac-system/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/celestial-lens/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/astral-gateway/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/convergence-chamber/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/celestial-lens/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/corruption-pit/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/convergence-chamber/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/cursed-containment-vault/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/corruption-pit/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/golem-forge/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/cursed-containment-vault/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/hall-of-echoes/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/golem-forge/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/mirror-array/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/hall-of-echoes/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/mirror-array/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-anvil/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-breeder/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-anvil/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-infuser/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-breeder/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-loom/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-infuser/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-observatory/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-loom/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-purifier/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-observatory/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-repository/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-purifier/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-stabiliser/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-repository/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-trial-arena/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-stabiliser/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/soul-well/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-trial-arena/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/multiblocks/spirit-beacon/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/soul-well/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-1-first-night/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/multiblocks/spirit-beacon/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-2-capturing-souls/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-1-first-night/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-3-first-golem/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-2-capturing-souls/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-4-expanding-your-workshop/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-3-first-golem/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-5-multi-soul-golems/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-4-expanding-your-workshop/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-6-boss-progression/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-5-multi-soul-golems/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/progression/chapter-7-endgame/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-6-boss-progression/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/advancement-tree/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/progression/chapter-7-endgame/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/changelog/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/advancement-tree/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/instability-table/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/changelog/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/multiblock-layouts/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/instability-table/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/ritual-costs/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/multiblock-layouts/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/soul-breeding-chart/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/ritual-costs/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/soul-strength-table/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/soul-breeding-chart/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/reference/zodiac-compatibility/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/soul-strength-table/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/golem-awakening/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/reference/zodiac-compatibility/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/legendary-rituals/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/golem-awakening/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/overview/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/legendary-rituals/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-breeding/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/overview/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-corruption/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-breeding/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-fusion/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-corruption/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-purification/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-fusion/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-separation/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-purification/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-slot-expansion/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-separation/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/soul-stabilisation/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-slot-expansion/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
     <url>
-         <loc>https://bladetw.github.io/Soulweaver/rituals/zodiac-attunement/</loc>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/soul-stabilisation/</loc>
+         <lastmod>2026-06-30</lastmod>
+    </url>
+    <url>
+         <loc>https://bladetw.github.io/Soulweaver/getting-started.md/rituals/zodiac-attunement/</loc>
          <lastmod>2026-06-30</lastmod>
     </url>
 </urlset>
